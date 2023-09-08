@@ -48,10 +48,10 @@ selectors). */
       overflow-y: scroll;
       overflow-x: hidden;
       position: absolute;
-      scrollbar-width: none;
-      -ms-overflow-style: none;
+      /*scrollbar-width: none;
+      -ms-overflow-style: none;*/
     }
 
-  ::-webkit-scrollbar {
+  /*::-webkit-scrollbar {
         display:none;
-      }
+      }*/
