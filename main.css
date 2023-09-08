@@ -85,6 +85,9 @@ selectors). */
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
-  padding: 16px;
+  position:absolute;
+   bottom:0;
+   width:100%;
+   background:#93c3db;
+   height: 100px;
 }
