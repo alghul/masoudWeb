@@ -60,7 +60,7 @@ selectors). */
       /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
-  background-color: #f7f4f4;
+  background-color: whitesmoke;
   height: 150px;
 }
 /* Style the topnav links */
