@@ -45,7 +45,7 @@ selectors). */
 
   .outer-wrapper {
       width: 100vh;
-      height: 100vw;
+      height: 500vw;
       transform: rotate(-90deg) translateX(-100vh);
       transform-origin: top left;
       overflow-y: scroll;
