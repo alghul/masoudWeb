@@ -160,7 +160,7 @@ selectors). */
 
   .first-IP {
     background-image: url('images/1.jpg');
-    height: 400px;
+    height: 600px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -168,7 +168,7 @@ selectors). */
     display: flex;  }
 
     .first-IP-text1 {
-      font-size: 50px;
+      font-size: 30px;
       margin-top: 0px;
       margin-bottom: 0px;
       padding-top: 0px;
@@ -182,7 +182,7 @@ selectors). */
     } 
 
     .first-IP-text2 {
-      font-size: 30px;
+      font-size: 20px;
       margin-top: 0px;
       margin-bottom: 0px;
       padding-top: 0px;
