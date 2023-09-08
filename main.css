@@ -85,9 +85,11 @@ selectors). */
 
 /* Style the footer */
 .footer {
-  position:absolute;
-   bottom:0;
-   width:100%;
-   background:#93c3db;
-   height: 100px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
