@@ -194,5 +194,10 @@ selectors). */
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
       position: bottom;
+      top: 80px;
+      right: 0;
+      width: 200px;
+      height: 100px;
+      border: 0px solid #000000;
       vertical-align: bottom;
     } 
