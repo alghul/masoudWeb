@@ -180,7 +180,7 @@ selectors). */
       position: relative;
       top:0px;
       left:0px;
-      width: 4000px;  
+      width: 100%;  
     }
       
     .first-IP-text2 {
