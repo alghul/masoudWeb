@@ -61,7 +61,7 @@ selectors). */
 .topnav {
   overflow: hidden;
   background-color: #333;
-  height: 100px;
+  height: 150px;
 }
 /* Style the topnav links */
 .topnav a {
