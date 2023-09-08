@@ -178,7 +178,7 @@ selectors). */
       font-family: 'Times New Roman', Times, serif;
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
-      position: top;
+      position: relative;
       top:0px;
       left:0px;
       width: 1000px;
@@ -195,7 +195,7 @@ selectors). */
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
       position: relative;
-      top: 400px;
+      top: 500px;
       right: 100px;
       width: 1000px;
       height: 100px;
