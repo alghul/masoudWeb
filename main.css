@@ -76,15 +76,15 @@ selectors). */
   color: black;
 }
 
-/* Style the content */
+/* Style the content 
 .content {
   background-color: #ddd;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
-}
+  height: 200px; 
+}*/
 
 /* Style the footer */
 .footer {
   background-color: #f1f1f1;
-  padding: 10px;
+  padding: 16px;
 }
