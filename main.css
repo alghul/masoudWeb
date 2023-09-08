@@ -160,7 +160,7 @@ selectors). */
 
   .first-IP {
     background-image: url('images/1.jpg');
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -170,16 +170,4 @@ selectors). */
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
-}
-.first-IP-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    font-size: 50px;
-    width: 100%;
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-}
+    color: white;  }
