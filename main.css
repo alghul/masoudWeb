@@ -130,6 +130,15 @@ selectors). */
   padding: 10px;
   height: 200px; 
 }*/
+.continue {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#f1d1a1;
+  color: black;
+  text-align: center;
+}
 
 /* Style the footer */
 .footer {
