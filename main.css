@@ -162,3 +162,14 @@ selectors). */
     background-image: url('images/1.jpg');
     height: fit-content;
 }
+.first-IP-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
