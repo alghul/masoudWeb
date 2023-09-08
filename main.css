@@ -167,7 +167,33 @@ selectors). */
     background-repeat: no-repeat;
     width: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: top;
     align-items: top;
     flex-direction: column;
     color: rgb(255, 0, 0);  }
+
+    .first-IP h1 {
+      font-size: 50px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      color: rgb(255, 0, 0);
+      text-align: top;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px #000000;
+    } 
+
+    .first-IP h2 {
+      font-size: 30px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+      color: rgb(255, 0, 0);
+      text-align: bottom;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px #000000;
+    } 
