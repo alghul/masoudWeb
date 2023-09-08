@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="icon" type="image/x-icon" href="/images/favicon1.ico">
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+    <div class="topnav">
+        <a class="active" href="#">Anasayfa</a>
+        <a href="#">İpuçları ve Kılavuzlar</a>
+        <a href="#">Teklif Al</a>
+        <a href="#">Hakkımızda</a>
+        <a href="#">İletişim</a>
+        <a href="#"><i class="fa fa-fw fa-user"></i> Giriş</a>
+        <div class="search-container">
+            <form action="/action_page.php">
+              <input type="text" placeholder="Aramak...?" name="search">
+              <button type="submit"><i class="fa fa-search"></i></button>
+            </form>
+          </div>
+      </div>
+
+    
+      <div class="outer-wrapper">
+        <div class="wrapper">
+          <div class="slide one"> <h1>Hi there, Are you looking for a great investment that can potentially provide you with a monthly income. >>> </h1> </div>
+          <div class="slide two"> <h1>A rooftop solar system is a sound invenstment that could pay for itself in 5 years >>> </h1></div>
+          <div class="slide three"> <h1>This solar system will supply electricity to your home but potentially, it will make you some money after selling excess produced solar electricity to the local power company >>> </h1> </div>
+          <div class="slide four"> <h1>Click on the below button to learn about how we can help you purchase and install the right solar system for your house. We are committed to making the solar system procurement and installation process a seamless and a transparent one. Enjoy the ride !!!  >>> </h1> <button type="button">Find Quotations for me!</button> </div>
+        </div>
+    
+       </div>
+    
+    <div class="continue"> <h1>find me</h1> <button type="button">Find Quotations for me!</button> </div>
+
+      
+</body>
+
+
+</html>
