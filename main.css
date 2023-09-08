@@ -68,7 +68,7 @@ selectors). */
   float: left;
   display: block;
   color: #0a0a0a;
-  text-align: center;
+  text-align: bottom;
   padding: 14px 16px;
   text-decoration:none;
 }
