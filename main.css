@@ -39,9 +39,7 @@ selectors). */
   .four {
     background: #efc942;
   }
-  .five {
-    background: #efad44;
-  }
+ 
 
   .outer-wrapper {
       width: 100vh;
