@@ -2,18 +2,18 @@
 selectors). */
 
   
-  /* Applies to all <h1>...</h1> elements. */
+  /* Applies to all <h1>...</h1> elements.
   h1 {
     font-size: 55px;
     font-weight: bold;
     margin-top: 10px;
-  }
+  }*/
   
-  /* Applies to all elements with <... class="someclass"> specified. */
-  .someclass { color: red; }
+  /* Applies to all elements with <... class="someclass"> specified.
+  .someclass { color: red; }*/
   
-  /* Applies to the element with <... id="someid"> specified. */
-  #someid { color: green; }
+  /* Applies to the element with <... id="someid"> specified.
+  #someid { color: green; }*/
 
   /* Path: main.css How to create CSS Horizontal Scrolling Website*/
   .slide {
