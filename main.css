@@ -160,7 +160,7 @@ selectors). */
 
   .first-IP {
     background-image: url('images/1.jpg');
-    height: 300px;
+    height: 400px;
     background-size: cover;
     background-position: center;
     position: relative;
