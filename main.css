@@ -10,7 +10,7 @@ body {
   /* Applies to all <h1>...</h1> elements. */
   h1 {
     font-size: 55px;
-    font-weight: normal;
+    font-weight: bold;
     margin-top: 10px;
   }
   
