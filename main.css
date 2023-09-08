@@ -24,6 +24,8 @@ selectors). */
     display: flex;
     flex-direction: row;
     width: 400vw;
+    /*transform: rotate(90deg) translateY(-100vh);
+    transform-origin: top left;*/
   }
   .one {
     background: #efdefe;
@@ -35,15 +37,10 @@ selectors). */
     background: #0bbaa0;
   }
   .four {
-    background: hsl(90, 100%, 44%);
+    background: hwb(92 30% 65%);
   }
 
-  .wrapper {
-    ...
-      transform: rotate(90deg) translateY(-100vh);
-      transform-origin: top left;
-    }
-    .outer-wrapper {
+  /*.outer-wrapper {
       width: 100vh;
       height: 100vw;
       transform: rotate(-90deg) translateX(-100vh);
@@ -51,13 +48,10 @@ selectors). */
       overflow-y: scroll;
       overflow-x: hidden;
       position: absolute;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
     }
 
-    .outer-wrapper {
-      ...
-        scrollbar-width: none;
-        -ms-overflow-style: none;
-      }
-      ::-webkit-scrollbar {
+  ::-webkit-scrollbar {
         display:none;
-      }
+      }*/
