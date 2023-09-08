@@ -157,3 +157,7 @@ selectors). */
   text-align: center;
   padding: 14px 16px;
   text-decoration: navajowhite;}*/
+
+  .first-IP {
+    background-image: url('images/1.jpg');
+}
