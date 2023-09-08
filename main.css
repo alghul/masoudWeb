@@ -179,6 +179,9 @@ selectors). */
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
       position: top;
+      top:0px;
+      left:0px;
+      width: 600px;
     } 
 
     .first-IP-text2 {
