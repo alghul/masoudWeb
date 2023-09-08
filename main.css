@@ -191,7 +191,7 @@ selectors). */
       font-family: 'Times New Roman', Times, serif;
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
-      position: bottom;
+      position: absolute;
       top: 500px;
       right: 0;
       width: 400px;
