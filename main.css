@@ -195,7 +195,7 @@ selectors). */
       text-shadow: 2px 2px 4px #000000;
       position: relative;
       top: 500px;
-      right: 100px;
+      left: 100px;
       width: 2000px;
       height: 100px;
 
