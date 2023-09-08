@@ -85,11 +85,20 @@ selectors). */
 
 /* Style the footer */
 .footer {
-  position: fixed;
+  overflow: hidden;
+  background-color: #333;
+  /*position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: black;
   color: white;
-  text-align: center;
+  text-align: center;*/
 }
+.footer a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: navajowhite;
