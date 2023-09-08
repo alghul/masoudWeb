@@ -39,6 +39,9 @@ selectors). */
   .four {
     background: #b8c88f;
   }
+  .five {
+    background: #b8c88f;
+  }
 
   .outer-wrapper {
       width: 100vh;
@@ -85,20 +88,18 @@ selectors). */
 
 /* Style the footer */
 .footer {
-  overflow: hidden;
-  background-color: #333;
-  /*position: fixed;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: black;
+  background-color: b#333;
   color: white;
-  text-align: center;*/
+  text-align: center;
 }
-.footer a {
+/*.footer a {
   float: left;
   display: block;
   color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: navajowhite;}
+  text-decoration: navajowhite;}*/
