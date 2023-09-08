@@ -83,7 +83,7 @@ selectors). */
 }
 
 .topnav .search-container {
-  float: auto; 
+  float: right; 
 }
 
 .topnav input[type=text] {
