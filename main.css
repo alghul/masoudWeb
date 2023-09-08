@@ -164,7 +164,7 @@ selectors). */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 5000px;
     display: flex;  }
 
     .first-IP-text1 {
