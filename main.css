@@ -78,8 +78,8 @@ selectors). */
 }
 
 .topnav a.active {
-  background-color: #415bb0;
-  color: white;
+  background-color: #f5f6db;
+  color: black;
 }
 
 .topnav .search-container {
