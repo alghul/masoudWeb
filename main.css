@@ -160,4 +160,5 @@ selectors). */
 
   .first-IP {
     background-image: url('images/1.jpg');
+    height: fit-content;
 }
