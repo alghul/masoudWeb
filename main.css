@@ -179,7 +179,7 @@ selectors). */
       text-shadow: 2px 2px 4px #000000;
       position: relative;
       top:0px;
-      left:0px;
+      left:0px;}
       
     .first-IP-text2 {
       font-size: 20px;
@@ -197,4 +197,4 @@ selectors). */
       width: 2000px;
       
 
-    } 
+    }
