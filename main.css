@@ -166,7 +166,7 @@ selectors). */
   .first-IP {
       background-image: url("images/8.jpg");
       width: 100%;
-      height: auto;
+      height: 100vh;
       position: relative;
       top: 0px;
       left: 0px;
