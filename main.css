@@ -201,8 +201,8 @@ selectors). */
       font-weight: bold;
       text-shadow: 2px 2px 4px #000000;
       position: relative;
-      top: 500px;
+      top: 300px;
       left: 0px;
-      width: 4000px;     
+      width: 100%;     
       text-align: center;
     }
